@@ -142,3 +142,13 @@ source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/vogtbot/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/vogtbot/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /mnt/f/dev-projects/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
