@@ -1,0 +1,7 @@
+[user]
+	name = peter vogt
+	email = peter@petervogt.co
+[credential]
+	helper = store
+[init]
+	defaultBranch = main
