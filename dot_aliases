@@ -4,6 +4,8 @@ alias lenny="echo '( ͡° ͜ʖ ͡°)' | pbcopy"
 alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
 alias compile="commit 'compile'"
 alias version="commit 'version'"
+alias ls="exa --long --header --icons --tree --level=1"
+alias lsa="exa --long --header --icons --tree --level=2"
 
 # Directories
 alias devprojects="cd $HOME/dev-projects"
