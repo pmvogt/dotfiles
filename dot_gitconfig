@@ -5,3 +5,7 @@
 	helper = store
 [init]
 	defaultBranch = main
+[core]
+	editor = code --wait
+[push]
+	autoSetupRemote = true

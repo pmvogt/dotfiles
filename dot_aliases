@@ -7,7 +7,7 @@ alias version="commit 'version'"
 
 # Directories
 alias devprojects="cd $HOME/dev-projects"
-alias dotfiles="cd $DOTFILES"
+alias dotfiles="cd $HOME/dotfiles"
 alias library="cd $HOME/Library"
 alias projects="cd $HOME/Code"
 alias sites="cd $HOME/Herd"
