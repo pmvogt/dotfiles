@@ -5,7 +5,7 @@ alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
 alias compile="commit 'compile'"
 alias version="commit 'version'"
 alias ls="exa --long --header --icons --tree --level=1"
-alias lsa="exa --long --header --icons --tree --level=2"
+alias lsa="exa --long --header --icons --tree --level=2 -a"
 
 # Directories
 alias devprojects="cd $HOME/dev-projects"
